@@ -28,8 +28,5 @@ button{
 }
 
 img{
-    display: flex;
-    width: 5vw;
-    height: 5vw;
-    justify-content: center;
+    position: absolute;
 }
